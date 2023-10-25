@@ -2,9 +2,9 @@
 
 
 
-![01](Alternate Functionality Settings of a GPIO pin with example (1).assets/01.jpg)
+![01](https://github.com/knightsummon/Mastering-Microcontroller-and-Embedded-Driver-Development/blob/main/17.%20GPIO%20Alternate%20Functionality%20of%20Various%20Modes%20Discussed/Alternate%20Functionality%20Settings%20of%20a%20GPIO%20pin%20with%20example%20(1).assets/01.jpg)
 
-![02](Alternate Functionality Settings of a GPIO pin with example (1).assets/02.jpg)
+![02](https://github.com/knightsummon/Mastering-Microcontroller-and-Embedded-Driver-Development/blob/main/17.%20GPIO%20Alternate%20Functionality%20of%20Various%20Modes%20Discussed/Alternate%20Functionality%20Settings%20of%20a%20GPIO%20pin%20with%20example%20(1).assets/02.jpg)
 
 ## Exercise:
 
@@ -12,12 +12,12 @@
 
 Go to the datasheet
 
-![03](Alternate Functionality Settings of a GPIO pin with example (1).assets/03.jpg)
+![03](https://github.com/knightsummon/Mastering-Microcontroller-and-Embedded-Driver-Development/blob/main/17.%20GPIO%20Alternate%20Functionality%20of%20Various%20Modes%20Discussed/Alternate%20Functionality%20Settings%20of%20a%20GPIO%20pin%20with%20example%20(1).assets/03.jpg)
 
-![04](Alternate Functionality Settings of a GPIO pin with example (1).assets/04.jpg)
+![04](https://github.com/knightsummon/Mastering-Microcontroller-and-Embedded-Driver-Development/blob/main/17.%20GPIO%20Alternate%20Functionality%20of%20Various%20Modes%20Discussed/Alternate%20Functionality%20Settings%20of%20a%20GPIO%20pin%20with%20example%20(1).assets/04.jpg)
 
-![05](Alternate Functionality Settings of a GPIO pin with example (1).assets/05.jpg)
+![05](https://github.com/knightsummon/Mastering-Microcontroller-and-Embedded-Driver-Development/blob/main/17.%20GPIO%20Alternate%20Functionality%20of%20Various%20Modes%20Discussed/Alternate%20Functionality%20Settings%20of%20a%20GPIO%20pin%20with%20example%20(1).assets/05.jpg)
 
-![06](Alternate Functionality Settings of a GPIO pin with example (1).assets/06.jpg)
+![06](https://github.com/knightsummon/Mastering-Microcontroller-and-Embedded-Driver-Development/blob/main/17.%20GPIO%20Alternate%20Functionality%20of%20Various%20Modes%20Discussed/Alternate%20Functionality%20Settings%20of%20a%20GPIO%20pin%20with%20example%20(1).assets/06.jpg)
 
-![07](Alternate Functionality Settings of a GPIO pin with example (1).assets/07.jpg)
+![07](https://github.com/knightsummon/Mastering-Microcontroller-and-Embedded-Driver-Development/blob/main/17.%20GPIO%20Alternate%20Functionality%20of%20Various%20Modes%20Discussed/Alternate%20Functionality%20Settings%20of%20a%20GPIO%20pin%20with%20example%20(1).assets/07.jpg)
